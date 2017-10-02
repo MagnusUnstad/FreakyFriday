@@ -1,0 +1,4 @@
+# FreakyFriday
+School project 
+
+
